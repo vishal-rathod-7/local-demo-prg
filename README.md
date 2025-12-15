@@ -1,2 +1,2 @@
 # This is my new Repository!
-# add new feature 2
+# add new feature 2 ("Dropdown")
